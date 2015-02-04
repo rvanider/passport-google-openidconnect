@@ -18,5 +18,6 @@ including [Express](http://expressjs.com/).
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
-Copyright (c) 2015 Kiyofumi Kondoh
+Original work Copyright (c) 2011-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
+
+Modified work Copyright (c) 2015 Kiyofumi Kondoh
